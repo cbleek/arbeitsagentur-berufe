@@ -43,3 +43,8 @@ CREATE TABLE `berufe` (
 ## vam_beruf_kurz.sql
 
 `mysqldump --skip-opt ba berufe > vam_beruf_kurz.sql`
+
+## vam_beruf_kurz.json
+
+`node csv2json.js`
+
